@@ -1,0 +1,7 @@
+Prometheus: 2.37.2
+Grafana: 9.2.4
+Node_exporter: 1.4.0
+Blackbox_exporter: 0.22.0
+Jmx_exporter: 0.17.2
+Grok_exporter: 0.2.8
+Alertmanager: 0.24.0
