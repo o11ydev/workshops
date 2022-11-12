@@ -11,4 +11,5 @@ serve:
 	$(HUGO) serve
 
 install:
+	npm install postcss-cli
 	curl -L https://github.com/spf13/hugo/releases/download/v$(HUGO_VERSION)/hugo_extended_$(HUGO_VERSION)_Linux-64bit.tar.gz | tar xzf - hugo
