@@ -5,3 +5,4 @@ Blackbox_exporter: 0.22.0
 Jmx_exporter: 0.17.2
 Grok_exporter: 0.2.8
 Alertmanager: 0.24.0
+Promlens: 0.2.0

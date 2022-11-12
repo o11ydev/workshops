@@ -58,6 +58,33 @@ What are the labels added by prometheus ?
 
 What are the labels prometheus knows but does not add?
 
+## promlens
+
+Promlens helps you build and understand queries.
+
+1. Download [promlens](https://prometheus.io/download/) {{% version "promlens" %}}.
+1. Extract it
+
+    ```shell
+    $ tar xvf Downloads/promlens-{{% version "promlens" %}}.linux-amd64.tar.gz
+    ```
+
+1. List the files
+
+    ```shell
+    $ ls promlens-{{% version "promlens" %}}.linux-amd64
+    ```
+
+1. Launch the node_exporter
+
+    ```shell
+    $ cd promlens-{{% version "promlens" %}}.linux-amd64
+    $ ./promlens --web.default-prometheus-url="http://127.0.0.1:9090"
+    ```
+
+1. Open your browser at [http://127.0.0.1:8080](http://127.0.0.1:8080)
+1. Add your promlens and your neighbors to prometheus.
+
 ---
 
 ## Labels matching
