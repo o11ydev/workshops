@@ -176,13 +176,13 @@ Create a file:
 
 ```yaml
 - targets:
-    - 127.0.0.1
+    - 192.168.28.1
   labels:
-    name: Julien
+    laptop_user: julien
 - targets:
-    - 127.0.0.2
+    - 192.168.28.2
   labels:
-    name: John
+    laptop_user: john
 ```
 
 With your IP + your neighbors.
