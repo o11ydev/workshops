@@ -32,7 +32,7 @@ your laptop:
 ```
 $ sudo -i
 # service firewalld stop
-# ip ad ad 192.168.28.x/24 dev enp5s0
+# ip ad ad 192.168.28.x/24 dev enp3s0
 ```
 
 Where x will be given by the trainer.
