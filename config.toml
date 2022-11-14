@@ -60,8 +60,8 @@ anchor = "smart"
 
 [languages]
 [languages.en]
-title = "Prometheus Workshop"
-description = "Introduction to Prometheus"
+title = "O11y Workshops"
+description = "Introduction to Open Source Observability tools"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
