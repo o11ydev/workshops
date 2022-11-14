@@ -39,7 +39,7 @@ Where x will be given by the trainer.
 
 ### Local downloads
 
-You can downloads the items locally at <https://192.168.28.1:3000/>.
+You can downloads the items locally at <http://192.168.28.1:3000/>.
 
 ### Code of Conduct
 
