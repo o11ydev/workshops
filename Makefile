@@ -6,6 +6,7 @@ all: compile
 
 compile:
 	$(HUGO) -F --baseURL "$(BASEURL)/"
+	mv moved public/index.html
 
 serve:
 	$(HUGO) serve
