@@ -1,6 +1,6 @@
-Prometheus: 2.37.2
-Grafana: 9.2.4
-Node_exporter: 1.4.0
+Prometheus: 2.37.4
+Grafana: 9.3.2
+Node_exporter: 1.5.0
 Blackbox_exporter: 0.22.0
 Jmx_exporter: 0.17.2
 Grok_exporter: 0.2.8
